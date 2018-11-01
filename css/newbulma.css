@@ -1,0 +1,38 @@
+html {
+font-family: 'Open Sans', sans-serif;
+background-color: #e6e6e6;
+}
+
+.box {
+margin-top: -100px;
+margin-left: 100px;
+margin-right: 100px;
+margin-bottom: 100px;
+padding: 1rem;
+}
+
+.feature-image {
+padding: 0.2rem;
+}
+
+.media-left {
+padding-left: 0.2rem; 
+}
+
+.author-image {
+overflow: hidden;
+border: 1px solid #e6e6e6;
+border-radius: 50%;
+}
+
+.sidemedia p {
+padding: 0.3rem;
+}
+
+.social { 
+color: white;
+}
+
+.social:hover { 
+color: skyblue;
+}
